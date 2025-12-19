@@ -17,7 +17,7 @@ java Main
 ```
 
 D. Screenshots
-![Program Output](docs/screenshots/output.png)
+![Program Output](aitutu1/docs/screenshots/output.png)
 
 E. Reflection
 In this assignment, I practiced implementing class relationships and data protection through access modifiers. I learned that Encapsulation prevents unauthorized access to sensitive data, while Composition allows for building complex systems like a Course containing multiple Students. The main challenge was handling array logic and ensuring correct string formatting in the output. OOP principles made the code much more organized and maintainable.
